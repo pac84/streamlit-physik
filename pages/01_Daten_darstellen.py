@@ -9,3 +9,5 @@ st.set_page_config(
 )
 
 st.write("# Daten graphisch darstellen")
+
+st.markdown('Gib in die erste Zeile die x-Werte durch ein "," getrennt ein und in die zweite Zeile die y-Werte. Dezimalzahlen werden mit einem "." eingegeben, also z.B. "2.3".')
